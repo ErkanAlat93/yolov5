@@ -14,8 +14,8 @@ val: images/train  # val images (relative to 'path') 128 images
 test: images/test
 
 # Classes
-nc: 5  # number of classes
-names: ['upstair', 'handrail', 'downstair', 'd', 'e']  # class names
+nc: 3  # number of classes
+names: ['upstair', 'handrail', 'downstair']  # class names
 
 
 # # Download script/URL (optional)
